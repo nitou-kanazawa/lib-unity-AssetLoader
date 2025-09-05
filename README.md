@@ -27,7 +27,7 @@ https://github.com/nitou-kanazawa/lib-unity-AssetLoader.git
 ```
 {
     "dependencies": {
-        "com.annulusgames.lit-motion": "https://github.com/nitou-kanazawa/lib-unity-AssetLoader.git"
+        "jp.nitou.assetloader": "https://github.com/nitou-kanazawa/lib-unity-AssetLoader.git"
     }
 }
 ```
